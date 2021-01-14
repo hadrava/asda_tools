@@ -22,4 +22,39 @@ ASDASoft, feel free to create new issue and please include that `.par` file.
 
 ## Using as git diff-tool
 
-TODO
+All the parsing is located in a single script `asda_tools/asdapar2json.py` and
+it has no special dependency. So you can copy it to your repository. (Let's
+assume, it will be in the same place as in this repository, inside `asda_tools`
+directory.)
+
+
+Then you need to asociate `.par` files with new difftool by creating a
+`.gitattributes` with content:
+```
+*.par diff=asdapar2json
+```
+
+And lastly, you need to enable this script in every clone of your repository.
+
+**That is security measure** -- script will be run automatically by git in the
+background. It might be better idea to have script somewhere outside of the
+repository and update it manually. Otherwise **mallicious version can be run by
+git when you switch to branch from untrusted source!**
+
+But it should be safe in case of your private repository.
+
+In that case, just add:
+
+```
+[diff "asdapar2json"]
+	textconv = `git rev-parse --show-toplevel`/asda_tools/asdapar2json.py
+```
+to the file `.git/config`.
+
+
+If you are brave enough to run my version, you can test it on this repository :)
+
+Just clone it, edit the `.git/config` and run:
+```
+git log -p test/test_files/test_01_pr.par
+```
