@@ -1,0 +1,3716 @@
+{
+    "0002_unknown_x": 95,
+    "asdasoft_version_string": "Version :V5.4.1.0",
+    "firmware_subversion": 2,
+    "firmware_version": 1052,
+    "params": {
+        "P0-00": {
+            "current": 1052,
+            "default": 1052,
+            "max": 1052,
+            "min": 1052,
+            "unit": 1044
+        },
+        "P0-01": {
+            "current": 0,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 16432
+        },
+        "P0-02": {
+            "current": 1,
+            "default": 1,
+            "max": 127,
+            "min": 4294966996,
+            "unit": 16
+        },
+        "P0-03": {
+            "current": 0,
+            "default": 0,
+            "max": 119,
+            "min": 0,
+            "unit": 16384
+        },
+        "P0-04": {
+            "current": 0,
+            "default": 0,
+            "max": 553648127,
+            "min": 0,
+            "unit": 26624
+        },
+        "P0-05": {
+            "current": 0,
+            "default": 0,
+            "max": 553648127,
+            "min": 0,
+            "unit": 26624
+        },
+        "P0-06": {
+            "current": 0,
+            "default": 0,
+            "max": 553648127,
+            "min": 0,
+            "unit": 26624
+        },
+        "P0-07": {
+            "current": 0,
+            "default": 0,
+            "max": 553648127,
+            "min": 0,
+            "unit": 26624
+        },
+        "P0-08": {
+            "current": 10664,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 5264
+        },
+        "P0-09": {
+            "current": 1815542984,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-10": {
+            "current": 1815551662,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-11": {
+            "current": 1815551662,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-12": {
+            "current": 1815551662,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-13": {
+            "current": 1815551662,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-14": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-15": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-16": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-17": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 0
+        },
+        "P0-18": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 0
+        },
+        "P0-19": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 0
+        },
+        "P0-20": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 0
+        },
+        "P0-21": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 0
+        },
+        "P0-22": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-23": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-24": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-25": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-26": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-27": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-28": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-29": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-30": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-31": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-32": {
+            "current": 1052,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24688
+        },
+        "P0-33": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-34": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-35": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-36": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-37": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-38": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-39": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-40": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-41": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-42": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P0-43": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-44": {
+            "current": 1815595113,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-45": {
+            "current": 0,
+            "default": 0,
+            "max": 127,
+            "min": 0,
+            "unit": 2048
+        },
+        "P0-46": {
+            "current": 131,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 17456
+        },
+        "P0-47": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 29744
+        },
+        "P0-48": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 29744
+        },
+        "P0-49": {
+            "current": 0,
+            "default": 0,
+            "max": 2,
+            "min": 0,
+            "unit": 16432
+        },
+        "P0-50": {
+            "current": 0,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 17456
+        },
+        "P0-51": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 9264
+        },
+        "P0-52": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P0-53": {
+            "current": 0,
+            "default": 0,
+            "max": 15,
+            "min": 0,
+            "unit": 16384
+        },
+        "P0-54": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P0-55": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P0-56": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-57": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-58": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-59": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-60": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-61": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-62": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P0-63": {
+            "current": 259,
+            "default": 0,
+            "max": 2147483647,
+            "min": 0,
+            "unit": 13328
+        },
+        "P1-00": {
+            "current": 2,
+            "default": 2,
+            "max": 4418,
+            "min": 0,
+            "unit": 16640
+        },
+        "P1-01": {
+            "current": 258,
+            "default": 0,
+            "max": 4383,
+            "min": 0,
+            "unit": 16896
+        },
+        "P1-02": {
+            "current": 0,
+            "default": 0,
+            "max": 17,
+            "min": 0,
+            "unit": 16640
+        },
+        "P1-03": {
+            "current": 0,
+            "default": 0,
+            "max": 19,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-04": {
+            "current": 100,
+            "default": 100,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-05": {
+            "current": 100,
+            "default": 100,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-06": {
+            "current": 1000,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-07": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-08": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-09": {
+            "current": 1000,
+            "default": 1000,
+            "max": 60000,
+            "min": 4294907296,
+            "unit": 8192
+        },
+        "P1-10": {
+            "current": 2000,
+            "default": 2000,
+            "max": 60000,
+            "min": 4294907296,
+            "unit": 8192
+        },
+        "P1-11": {
+            "current": 3000,
+            "default": 3000,
+            "max": 60000,
+            "min": 4294907296,
+            "unit": 8192
+        },
+        "P1-12": {
+            "current": 100,
+            "default": 100,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-13": {
+            "current": 100,
+            "default": 100,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-14": {
+            "current": 100,
+            "default": 100,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-15": {
+            "current": 0,
+            "default": 0,
+            "max": 8031,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-16": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 48
+        },
+        "P1-17": {
+            "current": 0,
+            "default": 0,
+            "max": 20000,
+            "min": 4294947296,
+            "unit": 4
+        },
+        "P1-18": {
+            "current": 0,
+            "default": 0,
+            "max": 20000,
+            "min": 4294947296,
+            "unit": 4
+        },
+        "P1-19": {
+            "current": 0,
+            "default": 0,
+            "max": 257,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-20": {
+            "current": 0,
+            "default": 0,
+            "max": 100000000,
+            "min": 0,
+            "unit": 8192
+        },
+        "P1-21": {
+            "current": 0,
+            "default": 0,
+            "max": 30000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-22": {
+            "current": 0,
+            "default": 0,
+            "max": 4223,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-23": {
+            "current": 0,
+            "default": 0,
+            "max": 10000000,
+            "min": 4284967296,
+            "unit": 8192
+        },
+        "P1-24": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 2064
+        },
+        "P1-25": {
+            "current": 1000,
+            "default": 1000,
+            "max": 1000,
+            "min": 10,
+            "unit": 0
+        },
+        "P1-26": {
+            "current": 0,
+            "default": 0,
+            "max": 9,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-27": {
+            "current": 1000,
+            "default": 1000,
+            "max": 1000,
+            "min": 10,
+            "unit": 0
+        },
+        "P1-28": {
+            "current": 0,
+            "default": 0,
+            "max": 9,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-29": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-30": {
+            "current": 500,
+            "default": 500,
+            "max": 8000,
+            "min": 1,
+            "unit": 0
+        },
+        "P1-31": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-32": {
+            "current": 0,
+            "default": 0,
+            "max": 32,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-33": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 17424
+        },
+        "P1-34": {
+            "current": 200,
+            "default": 200,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P1-35": {
+            "current": 1200,
+            "default": 200,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P1-36": {
+            "current": 1,
+            "default": 0,
+            "max": 65500,
+            "min": 0,
+            "unit": 128
+        },
+        "P1-37": {
+            "current": 10,
+            "default": 10,
+            "max": 2000,
+            "min": 0,
+            "unit": 2
+        },
+        "P1-38": {
+            "current": 100,
+            "default": 100,
+            "max": 2000,
+            "min": 0,
+            "unit": 2
+        },
+        "P1-39": {
+            "current": 3000,
+            "default": 3000,
+            "max": 5000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-40": {
+            "current": 2000,
+            "default": 50000,
+            "max": 50000,
+            "min": 0,
+            "unit": 8200
+        },
+        "P1-41": {
+            "current": 100,
+            "default": 100,
+            "max": 1000,
+            "min": 0,
+            "unit": 256
+        },
+        "P1-42": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-43": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 4294966296,
+            "unit": 0
+        },
+        "P1-44": {
+            "current": 128,
+            "default": 128,
+            "max": 536870911,
+            "min": 1,
+            "unit": 8192
+        },
+        "P1-45": {
+            "current": 10,
+            "default": 10,
+            "max": 2147483647,
+            "min": 1,
+            "unit": 8448
+        },
+        "P1-46": {
+            "current": 2500,
+            "default": 2500,
+            "max": 320000,
+            "min": 20,
+            "unit": 8448
+        },
+        "P1-47": {
+            "current": 10,
+            "default": 10,
+            "max": 300,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-48": {
+            "current": 0,
+            "default": 0,
+            "max": 17,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-49": {
+            "current": 0,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 128
+        },
+        "P1-50": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-51": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-52": {
+            "current": 40,
+            "default": 750,
+            "max": 750,
+            "min": 4,
+            "unit": 8
+        },
+        "P1-53": {
+            "current": 40,
+            "default": 6000,
+            "max": 6000,
+            "min": 0,
+            "unit": 8
+        },
+        "P1-54": {
+            "current": 12800,
+            "default": 12800,
+            "max": 1280000,
+            "min": 0,
+            "unit": 8192
+        },
+        "P1-55": {
+            "current": 2000,
+            "default": 6000,
+            "max": 6000,
+            "min": 10,
+            "unit": 136
+        },
+        "P1-56": {
+            "current": 120,
+            "default": 120,
+            "max": 120,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-57": {
+            "current": 0,
+            "default": 0,
+            "max": 300,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-58": {
+            "current": 1,
+            "default": 1,
+            "max": 1000,
+            "min": 1,
+            "unit": 0
+        },
+        "P1-59": {
+            "current": 40,
+            "default": 0,
+            "max": 40,
+            "min": 0,
+            "unit": 2
+        },
+        "P1-60": {
+            "current": 0,
+            "default": 0,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-61": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-62": {
+            "current": 0,
+            "default": 0,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-63": {
+            "current": 1,
+            "default": 1,
+            "max": 1000,
+            "min": 1,
+            "unit": 0
+        },
+        "P1-64": {
+            "current": 0,
+            "default": 0,
+            "max": 17,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-65": {
+            "current": 1,
+            "default": 1,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-66": {
+            "current": 0,
+            "default": 0,
+            "max": 2000,
+            "min": 0,
+            "unit": 2
+        },
+        "P1-67": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-68": {
+            "current": 4,
+            "default": 4,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-69": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-70": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-71": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-72": {
+            "current": 5000,
+            "default": 5000,
+            "max": 1280000,
+            "min": 200,
+            "unit": 8192
+        },
+        "P1-73": {
+            "current": 30000,
+            "default": 30000,
+            "max": 2147483647,
+            "min": 1,
+            "unit": 8192
+        },
+        "P1-74": {
+            "current": 0,
+            "default": 0,
+            "max": 16674,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-75": {
+            "current": 100,
+            "default": 100,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-76": {
+            "current": 5500,
+            "default": 5500,
+            "max": 6000,
+            "min": 0,
+            "unit": 256
+        },
+        "P1-77": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16640
+        },
+        "P1-78": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16384
+        },
+        "P1-79": {
+            "current": 0,
+            "default": 0,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-80": {
+            "current": 0,
+            "default": 0,
+            "max": 300,
+            "min": 4294966996,
+            "unit": 0
+        },
+        "P1-81": {
+            "current": 3000,
+            "default": 50000,
+            "max": 50000,
+            "min": 0,
+            "unit": 8200
+        },
+        "P1-82": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-83": {
+            "current": 0,
+            "default": 0,
+            "max": 12000,
+            "min": 0,
+            "unit": 0
+        },
+        "P1-84": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-85": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-86": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-87": {
+            "current": 1,
+            "default": 1,
+            "max": 300,
+            "min": 1,
+            "unit": 0
+        },
+        "P1-88": {
+            "current": 2000,
+            "default": 2000,
+            "max": 2000,
+            "min": 2,
+            "unit": 0
+        },
+        "P1-89": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-90": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-91": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-92": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-93": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-94": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-95": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-96": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-97": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P1-98": {
+            "current": 0,
+            "default": 0,
+            "max": 800,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-00": {
+            "current": 35,
+            "default": 35,
+            "max": 2047,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-01": {
+            "current": 100,
+            "default": 100,
+            "max": 500,
+            "min": 10,
+            "unit": 0
+        },
+        "P2-02": {
+            "current": 50,
+            "default": 50,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-03": {
+            "current": 5,
+            "default": 5,
+            "max": 100,
+            "min": 2,
+            "unit": 0
+        },
+        "P2-04": {
+            "current": 3300,
+            "default": 500,
+            "max": 8191,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-05": {
+            "current": 100,
+            "default": 100,
+            "max": 500,
+            "min": 10,
+            "unit": 0
+        },
+        "P2-06": {
+            "current": 100,
+            "default": 100,
+            "max": 1023,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-07": {
+            "current": 0,
+            "default": 0,
+            "max": 100,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-08": {
+            "current": 36,
+            "default": 0,
+            "max": 501,
+            "min": 0,
+            "unit": 2064
+        },
+        "P2-09": {
+            "current": 2,
+            "default": 2,
+            "max": 20,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-10": {
+            "current": 256,
+            "default": 257,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-11": {
+            "current": 256,
+            "default": 260,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-12": {
+            "current": 257,
+            "default": 278,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-13": {
+            "current": 256,
+            "default": 279,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-14": {
+            "current": 256,
+            "default": 258,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-15": {
+            "current": 256,
+            "default": 34,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-16": {
+            "current": 256,
+            "default": 35,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-17": {
+            "current": 256,
+            "default": 33,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-18": {
+            "current": 257,
+            "default": 257,
+            "max": 319,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-19": {
+            "current": 256,
+            "default": 259,
+            "max": 319,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-20": {
+            "current": 256,
+            "default": 265,
+            "max": 319,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-21": {
+            "current": 256,
+            "default": 261,
+            "max": 319,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-22": {
+            "current": 7,
+            "default": 7,
+            "max": 319,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-23": {
+            "current": 1000,
+            "default": 1000,
+            "max": 1000,
+            "min": 50,
+            "unit": 0
+        },
+        "P2-24": {
+            "current": 0,
+            "default": 0,
+            "max": 32,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-25": {
+            "current": 2,
+            "default": 1000,
+            "max": 1000,
+            "min": 0,
+            "unit": 10
+        },
+        "P2-26": {
+            "current": 0,
+            "default": 0,
+            "max": 1023,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-27": {
+            "current": 0,
+            "default": 0,
+            "max": 24,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-28": {
+            "current": 10,
+            "default": 10,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-29": {
+            "current": 1280000,
+            "default": 1280000,
+            "max": 3840000,
+            "min": 0,
+            "unit": 8192
+        },
+        "P2-30": {
+            "current": 0,
+            "default": 0,
+            "max": 8,
+            "min": 4294967288,
+            "unit": 2064
+        },
+        "P2-31": {
+            "current": 40,
+            "default": 40,
+            "max": 1000,
+            "min": 1,
+            "unit": 0
+        },
+        "P2-32": {
+            "current": 0,
+            "default": 0,
+            "max": 2,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-33": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-34": {
+            "current": 5000,
+            "default": 5000,
+            "max": 5000,
+            "min": 1,
+            "unit": 0
+        },
+        "P2-35": {
+            "current": 3840000,
+            "default": 3840000,
+            "max": 128000000,
+            "min": 1,
+            "unit": 8192
+        },
+        "P2-36": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-37": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-38": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-39": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-40": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-41": {
+            "current": 256,
+            "default": 256,
+            "max": 351,
+            "min": 0,
+            "unit": 32768
+        },
+        "P2-42": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-43": {
+            "current": 1000,
+            "default": 1000,
+            "max": 2000,
+            "min": 50,
+            "unit": 0
+        },
+        "P2-44": {
+            "current": 0,
+            "default": 0,
+            "max": 32,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-45": {
+            "current": 1000,
+            "default": 1000,
+            "max": 2000,
+            "min": 50,
+            "unit": 0
+        },
+        "P2-46": {
+            "current": 0,
+            "default": 0,
+            "max": 32,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-47": {
+            "current": 1,
+            "default": 1,
+            "max": 2,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-48": {
+            "current": 100,
+            "default": 100,
+            "max": 300,
+            "min": 1,
+            "unit": 0
+        },
+        "P2-49": {
+            "current": 11,
+            "default": 11,
+            "max": 31,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-50": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-51": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-52": {
+            "current": 1000000000,
+            "default": 1000000000,
+            "max": 1000000000,
+            "min": 0,
+            "unit": 8448
+        },
+        "P2-53": {
+            "current": 0,
+            "default": 0,
+            "max": 1023,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-54": {
+            "current": 0,
+            "default": 0,
+            "max": 8191,
+            "min": 0,
+            "unit": 256
+        },
+        "P2-55": {
+            "current": 0,
+            "default": 0,
+            "max": 1023,
+            "min": 0,
+            "unit": 256
+        },
+        "P2-56": {
+            "current": 0,
+            "default": 0,
+            "max": 1023,
+            "min": 0,
+            "unit": 256
+        },
+        "P2-57": {
+            "current": 0,
+            "default": 0,
+            "max": 1023,
+            "min": 0,
+            "unit": 256
+        },
+        "P2-58": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-59": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-60": {
+            "current": 128,
+            "default": 128,
+            "max": 536870911,
+            "min": 1,
+            "unit": 8192
+        },
+        "P2-61": {
+            "current": 128,
+            "default": 128,
+            "max": 536870911,
+            "min": 1,
+            "unit": 8192
+        },
+        "P2-62": {
+            "current": 128,
+            "default": 128,
+            "max": 536870911,
+            "min": 1,
+            "unit": 8192
+        },
+        "P2-63": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-64": {
+            "current": 0,
+            "default": 0,
+            "max": 3,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-65": {
+            "current": 8,
+            "default": 8,
+            "max": 65535,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-66": {
+            "current": 0,
+            "default": 0,
+            "max": 6207,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-67": {
+            "current": 15,
+            "default": 15,
+            "max": 2000,
+            "min": 0,
+            "unit": 2
+        },
+        "P2-68": {
+            "current": 0,
+            "default": 0,
+            "max": 8449,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-69": {
+            "current": 0,
+            "default": 0,
+            "max": 273,
+            "min": 0,
+            "unit": 16896
+        },
+        "P2-70": {
+            "current": 0,
+            "default": 0,
+            "max": 7,
+            "min": 0,
+            "unit": 16384
+        },
+        "P2-71": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 18448
+        },
+        "P2-72": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-73": {
+            "current": 0,
+            "default": 0,
+            "max": 1597992799,
+            "min": 0,
+            "unit": 24576
+        },
+        "P2-74": {
+            "current": 0,
+            "default": 0,
+            "max": 25000,
+            "min": 4294942296,
+            "unit": 4
+        },
+        "P2-75": {
+            "current": 0,
+            "default": 0,
+            "max": 1000000000,
+            "min": 3294967296,
+            "unit": 10240
+        },
+        "P2-76": {
+            "current": 0,
+            "default": 0,
+            "max": 28663,
+            "min": 0,
+            "unit": 18432
+        },
+        "P2-77": {
+            "current": 0,
+            "default": 0,
+            "max": 65405,
+            "min": 0,
+            "unit": 18432
+        },
+        "P2-78": {
+            "current": 270,
+            "default": 270,
+            "max": 360,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-79": {
+            "current": 360,
+            "default": 360,
+            "max": 360,
+            "min": 0,
+            "unit": 0
+        },
+        "P2-80": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-81": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-82": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-83": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-84": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-85": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-86": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-87": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-88": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-89": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-90": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-91": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-92": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-93": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P2-94": {
+            "current": 144,
+            "default": 144,
+            "max": 144,
+            "min": 0,
+            "unit": 16640
+        },
+        "P3-00": {
+            "current": 127,
+            "default": 127,
+            "max": 127,
+            "min": 1,
+            "unit": 33280
+        },
+        "P3-01": {
+            "current": 515,
+            "default": 515,
+            "max": 1029,
+            "min": 0,
+            "unit": 16384
+        },
+        "P3-02": {
+            "current": 6,
+            "default": 6,
+            "max": 8,
+            "min": 0,
+            "unit": 16384
+        },
+        "P3-03": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16384
+        },
+        "P3-04": {
+            "current": 0,
+            "default": 0,
+            "max": 20,
+            "min": 0,
+            "unit": 0
+        },
+        "P3-05": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 16384
+        },
+        "P3-06": {
+            "current": 0,
+            "default": 0,
+            "max": 16383,
+            "min": 0,
+            "unit": 18448
+        },
+        "P3-07": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 0
+        },
+        "P3-08": {
+            "current": 0,
+            "default": 0,
+            "max": 243,
+            "min": 0,
+            "unit": 18448
+        },
+        "P3-09": {
+            "current": 20565,
+            "default": 20565,
+            "max": 40959,
+            "min": 4097,
+            "unit": 16640
+        },
+        "P3-10": {
+            "current": 0,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 16384
+        },
+        "P3-11": {
+            "current": 0,
+            "default": 0,
+            "max": 1,
+            "min": 0,
+            "unit": 18432
+        },
+        "P3-12": {
+            "current": 0,
+            "default": 0,
+            "max": 273,
+            "min": 0,
+            "unit": 16896
+        },
+        "P3-13": {
+            "current": 0,
+            "default": 0,
+            "max": 65535,
+            "min": 0,
+            "unit": 16384
+        },
+        "P4-00": {
+            "current": 825229346,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24624
+        },
+        "P4-01": {
+            "current": 825229346,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 25648
+        },
+        "P4-02": {
+            "current": 825229346,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 25648
+        },
+        "P4-03": {
+            "current": 825229346,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 25648
+        },
+        "P4-04": {
+            "current": 825229346,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 25648
+        },
+        "P4-05": {
+            "current": 20,
+            "default": 20,
+            "max": 5000,
+            "min": 0,
+            "unit": 16
+        },
+        "P4-06": {
+            "current": 0,
+            "default": 0,
+            "max": 255,
+            "min": 0,
+            "unit": 18448
+        },
+        "P4-07": {
+            "current": 4,
+            "default": 0,
+            "max": 16383,
+            "min": 0,
+            "unit": 16432
+        },
+        "P4-08": {
+            "current": 0,
+            "default": 0,
+            "max": 255,
+            "min": 0,
+            "unit": 17456
+        },
+        "P4-09": {
+            "current": 17,
+            "default": 0,
+            "max": 31,
+            "min": 0,
+            "unit": 17456
+        },
+        "P4-10": {
+            "current": 0,
+            "default": 0,
+            "max": 6,
+            "min": 0,
+            "unit": 2320
+        },
+        "P4-11": {
+            "current": 16534,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-12": {
+            "current": 16670,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-13": {
+            "current": 16636,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-14": {
+            "current": 16636,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-15": {
+            "current": 16505,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-16": {
+            "current": 16561,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-17": {
+            "current": 16841,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-18": {
+            "current": 16641,
+            "default": 16352,
+            "max": 32767,
+            "min": 0,
+            "unit": 4112
+        },
+        "P4-19": {
+            "current": 1,
+            "default": 2,
+            "max": 4,
+            "min": 1,
+            "unit": 4112
+        },
+        "P4-20": {
+            "current": 0,
+            "default": 0,
+            "max": 800,
+            "min": 4294966496,
+            "unit": 4112
+        },
+        "P4-21": {
+            "current": 0,
+            "default": 0,
+            "max": 800,
+            "min": 4294966496,
+            "unit": 4112
+        },
+        "P4-22": {
+            "current": 0,
+            "default": 0,
+            "max": 5000,
+            "min": 4294962296,
+            "unit": 4096
+        },
+        "P4-23": {
+            "current": 0,
+            "default": 0,
+            "max": 5000,
+            "min": 4294962296,
+            "unit": 4096
+        },
+        "P4-24": {
+            "current": 160,
+            "default": 160,
+            "max": 190,
+            "min": 140,
+            "unit": 0
+        },
+        "P5-00": {
+            "current": 11300002,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 9264
+        },
+        "P5-01": {
+            "current": 1,
+            "default": 0,
+            "max": 12,
+            "min": 0,
+            "unit": 18448
+        },
+        "P5-02": {
+            "current": 0,
+            "default": 0,
+            "max": 4097,
+            "min": 0,
+            "unit": 16384
+        },
+        "P5-03": {
+            "current": 3759140607,
+            "default": 4008701695,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P5-04": {
+            "current": 0,
+            "default": 0,
+            "max": 298,
+            "min": 0,
+            "unit": 16384
+        },
+        "P5-05": {
+            "current": 1000,
+            "default": 1000,
+            "max": 20000,
+            "min": 1,
+            "unit": 2
+        },
+        "P5-06": {
+            "current": 200,
+            "default": 200,
+            "max": 5000,
+            "min": 1,
+            "unit": 2
+        },
+        "P5-07": {
+            "current": 0,
+            "default": 0,
+            "max": 1000,
+            "min": 0,
+            "unit": 48
+        },
+        "P5-08": {
+            "current": 2147483647,
+            "default": 2147483647,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-09": {
+            "current": 2147483648,
+            "default": 2147483648,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-10": {
+            "current": 800,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1072
+        },
+        "P5-11": {
+            "current": 2,
+            "default": 0,
+            "max": 32767,
+            "min": 0,
+            "unit": 2048
+        },
+        "P5-12": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-13": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-14": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 4294934528,
+            "unit": 1040
+        },
+        "P5-15": {
+            "current": 0,
+            "default": 0,
+            "max": 17,
+            "min": 0,
+            "unit": 18432
+        },
+        "P5-16": {
+            "current": 1816048463,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-17": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8208
+        },
+        "P5-18": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8208
+        },
+        "P5-19": {
+            "current": 1000000,
+            "default": 1000000,
+            "max": 2147000000,
+            "min": 2147967296,
+            "unit": 8192
+        },
+        "P5-20": {
+            "current": 200,
+            "default": 200,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-21": {
+            "current": 300,
+            "default": 300,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-22": {
+            "current": 500,
+            "default": 500,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-23": {
+            "current": 600,
+            "default": 600,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-24": {
+            "current": 800,
+            "default": 800,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-25": {
+            "current": 900,
+            "default": 900,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-26": {
+            "current": 1000,
+            "default": 1000,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-27": {
+            "current": 1200,
+            "default": 1200,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-28": {
+            "current": 1500,
+            "default": 1500,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-29": {
+            "current": 2000,
+            "default": 2000,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-30": {
+            "current": 2500,
+            "default": 2500,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-31": {
+            "current": 3000,
+            "default": 3000,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-32": {
+            "current": 5000,
+            "default": 5000,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-33": {
+            "current": 8000,
+            "default": 8000,
+            "max": 65500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-34": {
+            "current": 50,
+            "default": 50,
+            "max": 1500,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-35": {
+            "current": 30,
+            "default": 30,
+            "max": 1200,
+            "min": 1,
+            "unit": 128
+        },
+        "P5-36": {
+            "current": 0,
+            "default": 0,
+            "max": 1999,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-37": {
+            "current": 4294967295,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-38": {
+            "current": 1,
+            "default": 1,
+            "max": 1999,
+            "min": 1,
+            "unit": 2048
+        },
+        "P5-39": {
+            "current": 8208,
+            "default": 8208,
+            "max": 61759,
+            "min": 0,
+            "unit": 18432
+        },
+        "P5-40": {
+            "current": 0,
+            "default": 0,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-41": {
+            "current": 100,
+            "default": 100,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-42": {
+            "current": 200,
+            "default": 200,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-43": {
+            "current": 400,
+            "default": 400,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-44": {
+            "current": 500,
+            "default": 500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-45": {
+            "current": 800,
+            "default": 800,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-46": {
+            "current": 1000,
+            "default": 1000,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-47": {
+            "current": 1500,
+            "default": 1500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-48": {
+            "current": 2000,
+            "default": 2000,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-49": {
+            "current": 2500,
+            "default": 2500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-50": {
+            "current": 3000,
+            "default": 3000,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-51": {
+            "current": 3500,
+            "default": 3500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-52": {
+            "current": 4000,
+            "default": 4000,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-53": {
+            "current": 4500,
+            "default": 4500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-54": {
+            "current": 5000,
+            "default": 5000,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-55": {
+            "current": 5500,
+            "default": 5500,
+            "max": 32767,
+            "min": 0,
+            "unit": 128
+        },
+        "P5-56": {
+            "current": 50,
+            "default": 50,
+            "max": 1999,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-57": {
+            "current": 4294967294,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-58": {
+            "current": 1,
+            "default": 1,
+            "max": 1999,
+            "min": 1,
+            "unit": 2048
+        },
+        "P5-59": {
+            "current": 6553616,
+            "default": 6553616,
+            "max": 268382527,
+            "min": 65536,
+            "unit": 26624
+        },
+        "P5-60": {
+            "current": 200,
+            "default": 200,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-61": {
+            "current": 500,
+            "default": 500,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-62": {
+            "current": 1000,
+            "default": 1000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-63": {
+            "current": 2000,
+            "default": 2000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-64": {
+            "current": 3000,
+            "default": 3000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-65": {
+            "current": 5000,
+            "default": 5000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-66": {
+            "current": 6000,
+            "default": 6000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-67": {
+            "current": 8000,
+            "default": 8000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-68": {
+            "current": 10000,
+            "default": 10000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-69": {
+            "current": 13000,
+            "default": 13000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-70": {
+            "current": 15000,
+            "default": 15000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-71": {
+            "current": 18000,
+            "default": 18000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-72": {
+            "current": 20000,
+            "default": 20000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-73": {
+            "current": 23000,
+            "default": 23000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-74": {
+            "current": 25000,
+            "default": 25000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-75": {
+            "current": 30000,
+            "default": 30000,
+            "max": 60000,
+            "min": 1,
+            "unit": 130
+        },
+        "P5-76": {
+            "current": 0,
+            "default": 0,
+            "max": 1073741823,
+            "min": 3221225472,
+            "unit": 8192
+        },
+        "P5-77": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-78": {
+            "current": 100,
+            "default": 100,
+            "max": 100000000,
+            "min": 10,
+            "unit": 8192
+        },
+        "P5-79": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8240
+        },
+        "P5-80": {
+            "current": 10,
+            "default": 10,
+            "max": 90,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-81": {
+            "current": 100,
+            "default": 100,
+            "max": 1999,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-82": {
+            "current": 5,
+            "default": 5,
+            "max": 720,
+            "min": 5,
+            "unit": 0
+        },
+        "P5-83": {
+            "current": 1,
+            "default": 1,
+            "max": 32767,
+            "min": 1,
+            "unit": 0
+        },
+        "P5-84": {
+            "current": 3600,
+            "default": 3600,
+            "max": 1073741823,
+            "min": 10,
+            "unit": 8192
+        },
+        "P5-85": {
+            "current": 0,
+            "default": 0,
+            "max": 719,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-86": {
+            "current": 4294967295,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8224
+        },
+        "P5-87": {
+            "current": 0,
+            "default": 0,
+            "max": 1073741823,
+            "min": 3221225472,
+            "unit": 8192
+        },
+        "P5-88": {
+            "current": 0,
+            "default": 0,
+            "max": 541061735,
+            "min": 0,
+            "unit": 24608
+        },
+        "P5-89": {
+            "current": 0,
+            "default": 0,
+            "max": 1073741823,
+            "min": 3221225472,
+            "unit": 8192
+        },
+        "P5-90": {
+            "current": 270,
+            "default": 270,
+            "max": 360,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-91": {
+            "current": 360,
+            "default": 360,
+            "max": 360,
+            "min": 0,
+            "unit": 0
+        },
+        "P5-92": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-93": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P5-94": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-95": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-96": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P5-97": {
+            "current": 0,
+            "default": 0,
+            "max": 2463,
+            "min": 0,
+            "unit": 16432
+        },
+        "P5-98": {
+            "current": 0,
+            "default": 0,
+            "max": 56797,
+            "min": 0,
+            "unit": 16384
+        },
+        "P5-99": {
+            "current": 0,
+            "default": 0,
+            "max": 56797,
+            "min": 0,
+            "unit": 16384
+        },
+        "P6-00": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967103,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-01": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-02": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-03": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-04": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-05": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-06": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-07": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-08": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-09": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-10": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-11": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-12": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-13": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-14": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-15": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-16": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-17": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-18": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-19": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-20": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-21": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-22": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-23": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-24": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-25": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-26": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-27": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-28": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-29": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-30": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-31": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-32": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-33": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-34": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-35": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-36": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-37": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-38": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-39": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-40": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-41": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-42": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-43": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-44": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-45": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-46": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-47": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-48": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-49": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-50": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-51": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-52": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-53": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-54": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-55": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-56": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-57": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-58": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-59": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-60": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-61": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-62": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-63": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-64": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-65": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-66": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-67": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-68": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-69": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-70": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-71": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-72": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-73": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-74": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-75": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-76": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-77": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-78": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-79": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-80": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-81": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-82": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-83": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-84": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-85": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-86": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-87": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-88": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-89": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-90": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-91": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-92": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-93": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-94": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-95": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-96": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-97": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P6-98": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P6-99": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-00": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-01": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-02": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-03": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-04": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-05": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-06": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-07": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-08": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-09": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-10": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-11": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-12": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-13": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-14": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-15": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-16": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-17": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-18": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-19": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-20": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-21": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-22": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-23": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-24": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-25": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        },
+        "P7-26": {
+            "current": 0,
+            "default": 0,
+            "max": 4294967295,
+            "min": 0,
+            "unit": 24576
+        },
+        "P7-27": {
+            "current": 0,
+            "default": 0,
+            "max": 2147483647,
+            "min": 2147483648,
+            "unit": 8192
+        }
+    },
+    "section_table": [
+        {
+            "section_length": 144,
+            "section_offset": 256,
+            "section_type": 1
+        },
+        {
+            "section_length": 80,
+            "section_offset": 400,
+            "section_type": 2
+        },
+        {
+            "section_length": 4224,
+            "section_offset": 480,
+            "section_type": 24
+        },
+        {
+            "section_length": 25232,
+            "section_offset": 4704,
+            "section_type": 6
+        },
+        {
+            "section_length": 64,
+            "section_offset": 29936,
+            "section_type": 7
+        },
+        {
+            "section_length": 9248,
+            "section_offset": 30000,
+            "section_type": 8
+        }
+    ],
+    "storage_mode": 3
+}
