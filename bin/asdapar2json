@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from asdapar2json import main
+from asda_tools.asdapar2json import main
 
 if __name__ == "__main__":
     main()
