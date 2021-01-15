@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="asda_tools",
-    version="0.0.1",
+    version="0.0.2",
     author="Jan Hadrava",
     author_email="had@kam.mff.cuni.cz",
     description="Parser for .par files produced by ASDASoft",
