@@ -1,0 +1,3 @@
+include test/test_files/*.par
+include test/test_files/*.json
+include test/*.py
